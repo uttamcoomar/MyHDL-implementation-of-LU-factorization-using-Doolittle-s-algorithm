@@ -13,7 +13,7 @@ This project implements LU decomposition in hardware description language using 
 - Implements Doolittle's algorithm for LU factorization
 - Synthesizable MyHDL code
 - Supports 4x4 matrices
-- fixed-point arithmetic using Q8.16 signed numbers
+- fixed-point arithmetic using Q8.24 signed numbers
 
 ## Requirements
 
