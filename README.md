@@ -29,7 +29,6 @@ This project implements LU decomposition in hardware description language using 
 - top.vhd (VHDL generated using MyHDL)
 
 ## Doolittle's Algorithm
-``
 Doolittle's method is an approach to LU decomposition where the diagonal elements of the lower triangular matrix L are set to 1.
 
 ### Mathematical Formulation
