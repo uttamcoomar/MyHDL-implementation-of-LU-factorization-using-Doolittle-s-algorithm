@@ -81,7 +81,8 @@ A =  [a21  a22  a23]  =  L [l21  1    0] × [0    u22  u23]
 
 
 ## License
-
+                     GNU GENERAL PUBLIC LICENSE
+                       Version 3, 29 June 2007
 
 
 ## Author
