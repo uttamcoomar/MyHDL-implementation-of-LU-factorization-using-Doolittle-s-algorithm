@@ -391,6 +391,9 @@ def testbench():
         print("Hardware U:")
         for row in U_hw: print(row)
 
+        print("Maximum error in L:", np.max(np.abs(L_ref - np.array(L_hw))))
+        print("Maximum error in U:", np.max(np.abs(U_ref - np.array(U_hw))))
+
         raise StopSimulation
 
     return dut, clkgen, stimulus
